@@ -1,6 +1,6 @@
 {
   "name": "js-util-cq",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/utilCq.js",
   "minified:main": "lib/utilCq.min.js",
