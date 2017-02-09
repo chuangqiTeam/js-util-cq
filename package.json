@@ -1,8 +1,8 @@
 {
   "name": "js-util-cq",
-  "version": "1.0.3",
+  "version": "0.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "compile": "babel -d lib/ src/",
     "prepublish": "npm run compile"
