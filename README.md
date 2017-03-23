@@ -3,7 +3,7 @@
 npm login
 
 username: chuangqi
-password: chuangqi
+password: ****
 ```
 
 #改版本然后上传到npm
